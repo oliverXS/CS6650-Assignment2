@@ -12,7 +12,7 @@ import java.util.Optional;
 public class AlbumDAO {
     private static final String DB_URL = "jdbc:postgresql://database-1.c93txhanfeao.us-west-2.rds.amazonaws.com:5432/album_db";
     private static final String DB_USER = "postgres";
-    private static final String DB_PWD = "sxr981217";
+    private static final String DB_PWD = "";
     private static HikariDataSource dataSource;
 
     static {
