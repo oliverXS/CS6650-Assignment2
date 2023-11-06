@@ -8,8 +8,7 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
-public class Profile {
-    private String artist;
-    private String title;
-    private String year;
+public class ImageMetaData {
+    private String albumId;
+    private String imageSize;
 }

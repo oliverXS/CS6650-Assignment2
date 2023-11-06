@@ -8,7 +8,8 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
-public class PostResponse {
-    private String albumId;
-    private String imageSize;
+public class AlbumInfo {
+    private String artist;
+    private String title;
+    private String year;
 }
