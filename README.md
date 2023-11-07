@@ -115,7 +115,7 @@ Pros:
 
 ![ALB1](./image/ALB1.png)
 
-![ALB2](/Users/xiaorui/Desktop/CS6650/HW2/image/ALB2.png)
+![ALB2](./image/ALB2.png)
 
 #### Associate target group with load balancer
 
